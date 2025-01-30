@@ -1,7 +1,7 @@
 
 
 
-<h2>AI Healthcare Chatbot</h2> 
+<h2>AIDoc: AI Healthcare Chatbot</h2> 
 <hr>
  <b>an AI-powered chatbot that can provide healthcare information and support to users. <b>
 
